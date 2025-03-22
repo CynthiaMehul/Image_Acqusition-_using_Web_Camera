@@ -27,33 +27,24 @@ Anaconda - Python 3.7
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
+### Developed By: Cynthia Mehul J
+### Register No: 212223240020
 
 ## i) Write the frame as JPG file
 
-
-
+![image](https://github.com/user-attachments/assets/6d5e8b5d-45b9-4978-a2e0-3728363cca0f)
 
 ## ii) Display the video
 
-
-
+![image](https://github.com/user-attachments/assets/658a9af7-68a6-4acb-963a-029fce5c2cd4)
 
 ## iii) Display the video by resizing the window
 
-
-
+![image](https://github.com/user-attachments/assets/99d7a551-7765-4384-9c25-da2e54c170ad)
 
 ## iv) Rotate and display the video
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/e8a0ab32-0738-4ce1-a631-e8c0cc6dc35e)
 
 ```
 ## Output
